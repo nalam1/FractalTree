@@ -36,7 +36,7 @@ public void drawBranches(int x,int y, double branchLength, double angle)
 public void mouseClicked()
 {
 	background(0); 
-	stroke(0);
+	stroke(255);
 	line(320,480,320,380);   
 	drawBranches(320,380,100,3*Math.PI/2);	
 }
