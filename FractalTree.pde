@@ -5,7 +5,7 @@ public void setup()
 {   
 	size(640,480);
 	background(0); 
-	stroke(255);  
+	stroke(255,0,0);  
 	line(320,480,320,380);   
 	drawBranches(320,380,100,3*Math.PI/2);    
 } 
