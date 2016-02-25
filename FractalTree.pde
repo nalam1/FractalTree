@@ -1,6 +1,6 @@
 private double fractionLength = .8; 
 private int smallestBranch = 10; 
-private double branchAngle = 1.1;  
+private double branchAngle = 1;  
 public void setup() 
 {   
 	size(640,480);
